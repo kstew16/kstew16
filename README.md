@@ -1,5 +1,5 @@
 
-## Anything that make us HAPPIER <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
+# Anything that make us HAPPIER <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
 
 I am a developer who is interested in **Android** and **AR/VR**
 Currently majoring in Electrical Computer Engineering at the University of Seoul, planning to graduate in early 2023.
@@ -7,7 +7,7 @@ My programs, which I started **at my convenience**, are now heading **toward our
 
 ***
 
-### Stacks
+## Stacks
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?flat&logo=kotlin&logoColor=white)
@@ -21,7 +21,7 @@ My programs, which I started **at my convenience**, are now heading **toward our
 
 ***
 
-### Projects 💻
+## Projects 💻
 
 **- Treenity** 🌲
 
@@ -29,7 +29,7 @@ An application that provides an AR-based social networking/exercising experience
 
 ![treenity](/images/combined_treenity.gif)
 
-[More information]("https://github.com/Setana-GDSCUOS/treenity-android)
+[For more information](https://github.com/Setana-GDSCUOS/treenity-android)
 
 **- TinyReminder** 🕛
 
@@ -65,7 +65,7 @@ Due to the security policy of Github, only [zip files]("https://kstew16.github.i
 *.. keep on working*
 ***
 
-#### Contact
+### Contact
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kstew16)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kstew9916@gmail.com)
