@@ -27,14 +27,22 @@ My programs, which I started **at my convenience**, are now heading **toward our
 
 An application that provides an AR-based social networking/exercising experience.
 
+<details>
+<summary>Click to see images</summary>
+
 ![treenity](/images/combined_treenity.gif)
 
 [For more information](https://github.com/Setana-GDSCUOS/treenity-android)
 
+</details>&nbsp;
+
 **- TinyReminder** 🕛
 
 An application to help those who lose their health because they are absorbed in their work by providing real-time foreground alerts, and timekeeping services.
+<details>
+<summary>Click to see images</summary>
 ![tinryreminder](/images/tiny_reminder.png)
+</details>&nbsp;
 
 **- Embedded** 🦾
 
@@ -42,22 +50,38 @@ The embedded software works through image sensing, infrared recognition, etc
 
 *Humanoid with OpenCV*
 
+<details>
+<summary>Click to see images</summary>
+
 ![humanoid](/images/humanoid.gif)
+</details>&nbsp;
 
 *image sensing without library*
 
+<details>
+<summary>Click to see images</summary>
+
 ![humanoid2](/images/humanoid2.gif)
+</details>&nbsp;
 
 *LineTracer*
 
+<details>
+<summary>Click to see images</summary>
+
 ![linetracer](/images/linetracer.gif)
+</details>&nbsp;
 
 **- EAMFS** 🔔
 
 A simple web page that filters *Disaster messag*e using public data and maps API
 (included in <https://kstew16.github.io/>, a simple training for javascript)
 Due to the security policy of Github, only [zip files]("https://kstew16.github.io/EAMFS/EAMFS.zip") are available
+<details>
+<summary>Click to see images</summary>
 ![eamfs](/images/eamfs.png)
+</details>&nbsp;
+
 
 **- Algorithm** 👨‍💻&nbsp;
 
