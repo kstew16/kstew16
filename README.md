@@ -13,12 +13,12 @@ My programs, which I started **for my convenience**, are now heading **toward ou
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?flat&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/compose-4285F4?flat&logo=jetpack&compose&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqLite-003B57?flat&logo=sqLite&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?flat&logo=python&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26?flat&logo=html5&logoColor=white)
-![javascript](https://img.shields.io/badge/javavscript-F7DF1E?flat&logo=javascript&logoColor=white)
-![gradle](https://img.shields.io/badge/gradle-02303A?flat&logo=gradle&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-4285F4?flat&logo=jetpackcompose&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?flat&logo=sqLite&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)
+![html5](https://img.shields.io/badge/Html5-E34F26?flat&logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/Javavscript-F7DF1E?flat&logo=javascript&logoColor=white)
+![gradle](https://img.shields.io/badge/Gradle-02303A?flat&logo=gradle&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC?flat&logo=C&logoColor=white)
 
 ***
