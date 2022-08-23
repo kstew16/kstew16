@@ -66,6 +66,7 @@ The embedded software works through image sensing, infrared recognition, etc
 <summary>Click to see images</summary>
 
 ![humanoid2](/images/humanoid2.gif)
+[For more information](https://github.com/Minchan0504/Seebot_Run)
 </details>&nbsp;
 
 *LineTracer*
