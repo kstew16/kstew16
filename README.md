@@ -91,5 +91,5 @@ Due to the security policy of Github, only [zip files]("https://kstew16.github.i
 
 ### Contact
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kstew16)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/kstew16)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kstew9916@gmail.com)
