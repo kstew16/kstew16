@@ -3,7 +3,7 @@
 
 I am a developer who is interested in **Android** and **AR/VR**
 Currently majoring in Electrical Computer Engineering at the University of Seoul, planning to graduate in early 2023.
-My programs, which I started **at my convenience**, are now heading **toward our happiness**
+My programs, which I started **for my convenience**, are now heading **toward our happiness**.
 
 ***
 
