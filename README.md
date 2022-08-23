@@ -41,7 +41,9 @@ An application that provides an AR-based social networking/exercising experience
 An application to help those who lose their health because they are absorbed in their work by providing real-time foreground alerts, and timekeeping services.
 <details>
 <summary>Click to see images</summary>
-![tinryreminder](/images/tiny_reminder.png)
+
+![tinyreminder](/images/tiny_reminder.png)
+
 </details>&nbsp;
 
 **- Embedded** 🦾
@@ -79,7 +81,9 @@ A simple web page that filters *Disaster messag*e using public data and maps API
 Due to the security policy of Github, only [zip files]("https://kstew16.github.io/EAMFS/EAMFS.zip") are available
 <details>
 <summary>Click to see images</summary>
+
 ![eamfs](/images/eamfs.png)
+
 </details>&nbsp;
 
 
