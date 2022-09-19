@@ -27,6 +27,7 @@ My programs, which I started **for my convenience**, are now heading **toward ou
 
 **- Treenity** 🌲
 
+(21.12 ~ 22.04)
 An application that provides an AR-based social networking/exercising experience.
 
 <details>
@@ -34,22 +35,30 @@ An application that provides an AR-based social networking/exercising experience
 
 ![treenity](/images/combined_treenity.gif)
 
-[For more information](https://github.com/Setana-GDSCUOS/treenity-android)
+[Repo](https://github.com/Setana-GDSCUOS/treenity-android)
 
 </details>&nbsp;
 
 **- TinyReminder** 🕛
 
+(21.09 ~ 21.12)
 An application to help those who lose their health because they are absorbed in their work by providing real-time foreground alerts, and timekeeping services.
 <details>
 <summary>Click to see images</summary>
 
 ![tinyreminder](/images/tiny_reminder.png)
+[Repo](https://github.com/kstew16/tinyreminder_kot)
 
 </details>&nbsp;
 
+**-Web Crawlling automate system**
+
+(19.10 ~ 21.04) - in Republic Of Korea Air Force
+The document creation program using Excel(Hansel) VBS, web crawling
+
 **- Embedded** 🦾
 
+(18.03 ~ 18.07)
 The embedded software works through image sensing, infrared recognition, etc
 
 *Humanoid with OpenCV*
@@ -66,11 +75,14 @@ The embedded software works through image sensing, infrared recognition, etc
 <summary>Click to see images</summary>
 
 ![humanoid2](/images/humanoid2.gif)
-[For more information](https://github.com/Minchan0504/Seebot_Run)
+
+[Repo](https://github.com/Minchan0504/Seebot_Run)
+
 </details>&nbsp;
 
 *LineTracer*
 
+(17.03 ~ 18.02)
 <details>
 <summary>Click to see images</summary>
 
@@ -79,6 +91,7 @@ The embedded software works through image sensing, infrared recognition, etc
 
 **- EAMFS** 🔔
 
+(21.09 ~ 21.12)
 A simple web page that filters *Disaster messag*e using public data and maps API
 (included in <https://kstew16.github.io/>, a simple training for javascript)
 Due to the security policy of Github, only [zip files]("https://kstew16.github.io/EAMFS/EAMFS.zip") are available
@@ -88,7 +101,6 @@ Due to the security policy of Github, only [zip files]("https://kstew16.github.i
 ![eamfs](/images/eamfs.png)
 
 </details>&nbsp;
-
 
 **- Algorithm** 👨‍💻&nbsp;
 
