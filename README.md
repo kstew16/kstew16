@@ -28,6 +28,7 @@ My programs, which I started **for my convenience**, are now heading **toward ou
 **- Treenity** 🌲
 
 (21.12 ~ 22.04)
+
 An application that provides an AR-based social networking/exercising experience.
 
 <details>
@@ -42,6 +43,7 @@ An application that provides an AR-based social networking/exercising experience
 **- TinyReminder** 🕛
 
 (21.09 ~ 21.12)
+
 An application to help those who lose their health because they are absorbed in their work by providing real-time foreground alerts, and timekeeping services.
 <details>
 <summary>Click to see images</summary>
@@ -58,10 +60,11 @@ The document creation program using Excel(Hansel) VBS, web crawling
 
 **- Embedded** 🦾
 
-(18.03 ~ 18.07)
 The embedded software works through image sensing, infrared recognition, etc
 
 *Humanoid with OpenCV*
+
+(18.03 ~ 18.07)
 
 <details>
 <summary>Click to see images</summary>
@@ -70,6 +73,8 @@ The embedded software works through image sensing, infrared recognition, etc
 </details>&nbsp;
 
 *image sensing without library*
+
+(18.03 ~ 18.07)
 
 <details>
 <summary>Click to see images</summary>
