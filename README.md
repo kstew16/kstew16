@@ -1,6 +1,8 @@
 
 # Anything that make us HAPPIER <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
 
+[한국어 pdf](/ppt/kor.pdf)
+
 I am a developer who is interested in **Android** and **AR/VR**
 
 Currently majoring in Electrical Computer Engineering at the University of Seoul, planning to graduate in early 2023.
@@ -20,7 +22,6 @@ My programs, which I started **for my convenience**, are now heading **toward ou
 minor..
 ![html5](https://img.shields.io/badge/Html5-E34F26?flat&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javavscript-F7DF1E?flat&logo=javascript&logoColor=white)
-![Compose](https://img.shields.io/badge/Compose-4285F4?flat&logo=jetpackcompose&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?flat&logo=sqLite&logoColor=white)
 
 ***
