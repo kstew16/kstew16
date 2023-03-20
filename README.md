@@ -32,10 +32,11 @@ minor..
 
 **- Treenity** 🌲
 (21.12 ~ 22.04)
-운동이 지루하다면, 걷는 것에 보상을 받아 보는 건 어떨까요? 걸음으로 나무를 키워보세요!
 
-공간 정보와 위치 정보를 통하여 AR 객체를 공유하는 운동 증진 소셜 게임 애플리케이션입니다.
-사물과 공간을 인식해서 AR 객체를 배치하고, Retrofit2, Kotlin Coroutines를 활용한 MVVM 패턴 기반으로 서버에 데이터를 저장합니다.
+운동이 지루하다면, 보상을 받아 보는 건 어떨까요? 걸음으로 나무를 키워보세요!
+
+공간 정보와 위치 정보를 통하여 **AR** 객체를 공유하는 운동 증진 소셜 게임 애플리케이션입니다.
+사물과 공간을 인식해서 AR 객체를 배치하고, **Retrofit2, Kotlin Coroutines**를 활용한 **MVVM** 패턴 기반으로 서버에 데이터를 저장합니다.
 
 Powered by 
 CloudAnchors(Google ARCore API) & 3rd Library Scenview
@@ -45,6 +46,7 @@ CloudAnchors(Google ARCore API) & 3rd Library Scenview
 
 **- UOSNotice** 📢
 (23.02 ~ )
+
 공지사항을 놓치는 당신에게..
 
 애플리케이션을 PlayStore에 배포하여 지속적으로 유지 보수, 확장을 목표로 하고 있으며
@@ -60,7 +62,9 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 </details>&nbsp;
 
 **- TinyReminder** 🕛
+
 (21.09 ~ 21.12)
+
 열심히 하는 것도 좋지만, 스트레칭은 잊지 마세요!
 
 실시간 포어그라운드 서비스를 활용하여 타이머가 작동하는 동안 특정 간격으로 스트레칭 알림을 제공합니다. 또 타이머가 작동된 시간을 SQLite를 통해 로컬 데이터베이스에 저장하고, 그래프로 시각화하는 애플리케이션입니다.
@@ -75,11 +79,13 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 **- Algorithm** 👨‍💻&nbsp;
 
 개발은 **문제점 포착과 문제 해결**에서 시작된다고 생각합니다.
-더 빠른 서비스는 더 나은 경험을 제공한다는 생각을 바탕으로 22년 6월부터 12월까지 약 180일간 약 220제의 알고리즘 문제를 해결하며 더 효율적인 코드를 습관화하기 위하여 220개의 코드 이외의 60여개의 Big O 수준 개선 코드들을 작성하였습니다.
+더 빠른 서비스는 더 나은 경험을 제공한다는 생각을 바탕으로 22년 6월부터 12월까지 약 **180일간 약 220제**의 알고리즘 문제를 해결하며 더 효율적인 코드를 습관화하기 위하여 220개의 코드 이외의 약 **60개**의 Big O 수준 **개선 코드**들을 작성하였습니다.
 
 ![solved](/images/algorithm.png)
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeonunu)](https://solved.ac/yeonunu)
+
 현재는 프로그래머스에서 연습을 지속하고 있습니다.
+
 ***
 
 **다른 경험들..**
@@ -155,6 +161,8 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 2021.09 ~ 2022.06
 
 [GDSC UOS](https://gdsc-university-of-seoul.github.io/) 모바일 팀 코어 멤버(리더)
+
+***
 
 ### Contact
 
