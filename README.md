@@ -147,7 +147,7 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 
 [안드로이드의 4대 구성 요소](https://gdsc-university-of-seoul.github.io/mobile-four-major-components-of-AOS/)
 
-[내가 개발자가 된 이유, 게을러서 개발자](/ppt/lazy_developer.pptx)
+[내가 개발자가 된 이유, 게을러서 개발자 ppt](/ppt/lazy_developer.pptx)
 - 2021 Google Developer Group DevFest에서 프레젠테이션한 자료입니다.
 
 
