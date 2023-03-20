@@ -49,7 +49,7 @@ CloudAnchors(Google ARCore API) & 3rd Library Scenview
 
 공지사항을 놓치는 당신에게..
 
-애플리케이션을 PlayStore에 배포하여 지속적으로 유지 보수, 확장을 목표로 하고 있으며
+애플리케이션을 배포 및 지속적인 유지 보수, 확장을 목표로 하고 있으며
 **JetPack Compose 만을 사용한 UI**로 구성되어 있습니다.
 Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링한 데이터를 사용자에게 비동기적으로 제공하고, 공지사항 검색, 키워드 알림 등을 제공하는 애플리케이션입니다.
 
