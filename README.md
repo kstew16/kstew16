@@ -41,7 +41,7 @@ minor..
 Powered by 
 CloudAnchors(Google ARCore API) & 3rd Library Scenview
 
-![treenity](/images/combined_treenity.gif)
+![treenity](/images/combined_treenity_op1.gif)
 [작업 레포지토리](https://github.com/Setana-GDSCUOS/treenity-android)
 
 **- UOSNotice** 📢
