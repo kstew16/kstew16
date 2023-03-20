@@ -1,5 +1,5 @@
 
-# 당신을 행복하게 한다면, 만들어 드릴게요 <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
+# 당신을 행복하게 한다면, 만들어 드릴게요. <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
 
 
 2년의 안드로이드 개발 경험과 3년의 임베디드 시스템 개발 경험을 가진, **구현하는 개발자 태은우** 입니다.
@@ -51,7 +51,7 @@ CloudAnchors(Google ARCore API) & 3rd Library Scenview
 
 애플리케이션을 PlayStore에 배포하여 지속적으로 유지 보수, 확장을 목표로 하고 있으며
 **JetPack Compose 만을 사용한 UI**로 구성되어 있습니다.
-Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링한 데이터를 사용자에게 비동기적으로 제공하고, 공지사항 검색, 키워드 알림등을 제공하는 애플리케이션입니다.
+Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링한 데이터를 사용자에게 비동기적으로 제공하고, 공지사항 검색, 키워드 알림 등을 제공하는 애플리케이션입니다.
 
 <details>
 <summary>이미지를 보려면 클릭하세요</summary>
