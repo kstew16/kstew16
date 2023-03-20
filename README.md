@@ -1,12 +1,12 @@
 
-# 당신을 행복하게 한다면, 만들어 드릴게요. <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
+# Bringing the things that make us happier... <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
 
 
 2년의 안드로이드 개발 경험과 3년의 임베디드 시스템 개발 경험을 가진, **구현하는 개발자 태은우** 입니다.
 
 사용자 친화적인 UI/UX를 통하여 혁신적인 기능들을 삶에 더 가깝게 당겨올 수 있는 애플리케이션을 만들고자 합니다.
 
-서울시립대 전자전기컴퓨터공학부에 재학 중이며, 2023년에 졸업 예정입니다.
+서울시립대 전자전기컴퓨터공학부에 재학 중이며, 2023년 8월 졸업 예정입니다.
 
 당신을 행복하게 만들 수 있는 그 프로그램, 오늘도 열심히 만드는 중입니다!
 
