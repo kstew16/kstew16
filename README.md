@@ -1,10 +1,9 @@
 
 # Bringing the things that make us happier... <img src="https://thumbs.gfycat.com/HiddenSickClingfish-size_restricted.gif" width="35px" height="35x">
 
+2년의 안드로이드 개발 경험과 3년의 임베디드 시스템 개발 경험을 가진, **인간의 곁을 바꾸는 개발자** 입니다.
 
-2년의 안드로이드 개발 경험과 3년의 임베디드 시스템 개발 경험을 가진, **구현하는 개발자 태은우** 입니다.
-
-사용자 친화적인 UI/UX를 통하여 혁신적인 기능들을 삶에 더 가깝게 당겨올 수 있는 애플리케이션을 만들고자 합니다.
+사용자 친화적인 UI/UX를 통하여 살아가는 모습을 바꾸는 애플리케이션을 만들고자 합니다.
 
 서울시립대 전자전기컴퓨터공학부에 재학 중이며, 2023년 8월 졸업 예정입니다.
 
@@ -21,7 +20,6 @@
 
 minor..
 ![python](https://img.shields.io/badge/Python-3776AB?flat&logo=python&logoColor=white)
-![gradle](https://img.shields.io/badge/Gradle-02303A?flat&logo=gradle&logoColor=white)
 ![html5](https://img.shields.io/badge/Html5-E34F26?flat&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javavscript-F7DF1E?flat&logo=javascript&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?flat&logo=sqLite&logoColor=white)
@@ -31,43 +29,46 @@ minor..
 ## Projects 💻
 
 **- Treenity** 🌲
-(21.12 ~ 22.04)
+팀 프로젝트 (21.12 ~ 22.04)
+`Android`,`Kotlin`,`MVVM`,`Retrofit2`,`Okhttp3`,`Kotlin Coroutines`,`AR`,`View Binding`
 
-운동이 지루하다면, 보상을 받아 보는 건 어떨까요? 걸음으로 나무를 키워보세요!
+역할
+ 프로젝트 아이디어 제시
+ AR 액티비티 구현
+
+- 상호작용 가능한 AR 객체의 위치/공간 정보 기반 공유
+- Coroutines 기반 서버 내 유저 인벤토리/AR 정보 등록, 수정 뷰
+3D 렌더링 최적화 설정
 
 공간 정보와 위치 정보를 통하여 **AR** 객체를 공유하는 운동 증진 소셜 게임 애플리케이션입니다.
-사물과 공간을 인식해서 AR 객체를 배치하고, **Retrofit2, Kotlin Coroutines**를 활용한 **MVVM** 패턴 기반으로 서버에 데이터를 저장합니다.
 
-Powered by 
+Powered by
 CloudAnchors(Google ARCore API) & 3rd Library Scenview
 
 ![treenity](/images/combined_treenity_op1.gif)
 [작업 레포지토리](https://github.com/Setana-GDSCUOS/treenity-android)
 
 **- UOSNotice** 📢
-(23.02 ~ )
+개인 프로젝트 (23.02 ~ )
+`Android`,`Kotlin`,`MVVM`,`Retrofit2`,`Okhttp3`,`Kotlin Coroutines`,`Jetpack Compose`,`JSoup`
 
-공지사항을 놓치는 당신에게..
-
-애플리케이션을 배포 및 지속적인 유지 보수, 확장을 목표로 하고 있으며
-**JetPack Compose 만을 사용한 UI**로 구성되어 있습니다.
-Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링한 데이터를 사용자에게 비동기적으로 제공하고, 공지사항 검색, 키워드 알림 등을 제공하는 애플리케이션입니다.
+크롤링한 데이터를 사용자에게 비동기적으로 제공하고, 공지사항 검색, 키워드 알림 등을 제공하는 애플리케이션입니다.
+애플리케이션 배포 및 지속적인 유지 보수, 확장을 목표로 하고 있습니다.
 
 <details>
 <summary>이미지를 보려면 클릭하세요</summary>
 
-![uosnotice](/images/uosnotice.jpg)
+![uosnotice](/images/uosnotice.jpg){: width="192" height="135"}
 [레포지토리](https://github.com/kstew16/UOSNotice)
 
 </details>&nbsp;
 
 **- TinyReminder** 🕛
 
-(21.09 ~ 21.12)
+개인 프로젝트 (21.09 ~ 21.12)
+`Android`,`Kotlin`,`MVC`,`SQLite`,`MPAndroidChart`
 
-열심히 하는 것도 좋지만, 스트레칭은 잊지 마세요!
-
-실시간 포어그라운드 서비스를 활용하여 타이머가 작동하는 동안 특정 간격으로 스트레칭 알림을 제공합니다. 또 타이머가 작동된 시간을 SQLite를 통해 로컬 데이터베이스에 저장하고, 그래프로 시각화하는 애플리케이션입니다.
+실시간 포어그라운드 서비스를 활용하여 타이머가 작동하는 동안 특정 간격으로 스트레칭 알림을 제공합니다. 또 타이머가 작동된 시간을 그래프로 시각화하는 애플리케이션입니다.
 <details>
 <summary>이미지를 보려면 클릭하세요</summary>
 
@@ -96,7 +97,9 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 
 *OpenCV를 이용한 휴머노이드*
 
-(18.03 ~ 18.07)
+팀 프로젝트 (18.03 ~ 18.07)
+`C`,`OpenCV`
+역할 : HSV 기반 색상 분리 영상 데이터 가공, Line Detection, Edge Detection
 
 <details>
 <summary>이미지를 보려면 클릭하세요</summary>
@@ -105,8 +108,9 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 </details>&nbsp;
 
 *색상 기반 이미지 인식(라이브러리 미사용)*
-
-(18.03 ~ 18.07)
+`C`,`Image Sensing`
+팀 프로젝트 (18.03 ~ 18.07)
+역할 : 16bit RGB 영상 속 색상별 직선 검출, 미션 수행 로직 담당
 
 <details>
 <summary>이미지를 보려면 클릭하세요</summary>
@@ -119,7 +123,7 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 
 *라인트레이서(적외선 센서)*
 
-(17.03 ~ 18.02)
+개인 프로젝트 (17.03 ~ 18.02)
 <details>
 <summary>Click to see images</summary>
 
@@ -128,7 +132,8 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 
 **- EAMFS** 🔔
 
-(21.09 ~ 21.12)
+강의 중 개인 프로젝트 (21.09 ~ 21.12)
+`JavaScript`, `Naver MAPS API`, `Json`, `HTML5`
 
 공공데이터 API를 사용하여 얻은 JSON 데이터를 필터링하고 제공하는 웹 페이지입니다. 깃허브의 보안 정책 상 [압축 파일]("https://kstew16.github.io/EAMFS/EAMFS.zip")의 형태로 작성하였으며, <https://kstew16.github.io/>에서도 다운로드 하실 수 있습니다.
 
@@ -148,8 +153,8 @@ Retrofit2와 Kotlin Coroutines를 통해 MVVM 패턴을 기반으로 크롤링�
 [안드로이드의 4대 구성 요소](https://gdsc-university-of-seoul.github.io/mobile-four-major-components-of-AOS/)
 
 [내가 개발자가 된 이유, 게을러서 개발자 ppt](/ppt/lazy_developer.pptx)
-- 2021 Google Developer Group DevFest에서 프레젠테이션한 자료입니다.
 
+- 2021 Google Developer Group DevFest에서 프레젠테이션한 자료입니다.
 
 ***
 **- Departments**
