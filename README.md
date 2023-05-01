@@ -29,7 +29,9 @@ minor..
 ## Projects 💻
 
 **- Treenity** 🌲
+
 팀 프로젝트 (21.12 ~ 22.04)
+
 `Android`,`Kotlin`,`MVVM`,`Retrofit2`,`Okhttp3`,`Kotlin Coroutines`,`AR`,`View Binding`
 
 역할
@@ -49,7 +51,9 @@ CloudAnchors(Google ARCore API) & 3rd Library Scenview
 [작업 레포지토리](https://github.com/Setana-GDSCUOS/treenity-android)
 
 **- UOSNotice** 📢
+
 개인 프로젝트 (23.02 ~ )
+
 `Android`,`Kotlin`,`MVVM`,`Retrofit2`,`Okhttp3`,`Kotlin Coroutines`,`Jetpack Compose`,`JSoup`
 
 크롤링한 데이터를 사용자에게 비동기적으로 제공하고, 공지사항 검색, 키워드 알림 등을 제공하는 애플리케이션입니다.
@@ -66,6 +70,7 @@ CloudAnchors(Google ARCore API) & 3rd Library Scenview
 **- TinyReminder** 🕛
 
 개인 프로젝트 (21.09 ~ 21.12)
+
 `Android`,`Kotlin`,`MVC`,`SQLite`,`MPAndroidChart`
 
 실시간 포어그라운드 서비스를 활용하여 타이머가 작동하는 동안 특정 간격으로 스트레칭 알림을 제공합니다. 또 타이머가 작동된 시간을 그래프로 시각화하는 애플리케이션입니다.
@@ -133,6 +138,7 @@ CloudAnchors(Google ARCore API) & 3rd Library Scenview
 **- EAMFS** 🔔
 
 강의 중 개인 프로젝트 (21.09 ~ 21.12)
+
 `JavaScript`, `Naver MAPS API`, `Json`, `HTML5`
 
 공공데이터 API를 사용하여 얻은 JSON 데이터를 필터링하고 제공하는 웹 페이지입니다. 깃허브의 보안 정책 상 [압축 파일]("https://kstew16.github.io/EAMFS/EAMFS.zip")의 형태로 작성하였으며, <https://kstew16.github.io/>에서도 다운로드 하실 수 있습니다.
